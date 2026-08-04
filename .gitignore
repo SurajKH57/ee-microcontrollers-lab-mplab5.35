@@ -1,0 +1,10 @@
+**/build/
+**/dist/
+nbproject/private/
+nbproject/Makefile-*
+nbproject/Package-*
+*.o
+*.d
+*.hex
+.DS_Store
+
