@@ -1,9 +1,5 @@
 #include<p18f452.inc>
     ORG 00H
-    
-    MOVLW d'15' ; d is to denote us handling decimal values.
-    ADDLW d'20'
-    END
-
-
-
+    MOVLW 15 ; Hexadecimal sum
+    ADDLW 25
+    END ; O/p 3A, dec 58
