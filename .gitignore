@@ -1,10 +1,27 @@
-**/build/
-**/dist/
-nbproject/private/
-nbproject/Makefile-*
-nbproject/Package-*
+# MPLAB X Generated Output Folders & Binaries
+build/
+dist/
+disassembly/
+debug/
 *.o
-*.d
+*.elf
 *.hex
-.DS_Store
+*.cof
+*.mch
+*.map
+*.p1
+*.d
+*.pre
+*.sym
+*.lst
 
+# MPLAB X Private Settings
+nbproject/private/
+nbproject/Package-*.bash
+nbproject/Makefile-*.mk
+*.log
+
+# OS Files
+.DS_Store
+._*
+Thumbs.db
