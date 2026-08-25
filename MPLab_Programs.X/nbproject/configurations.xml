@@ -15,9 +15,9 @@
       <itemPath>program3.asm</itemPath>
       <itemPath>program4.asm</itemPath>
       <itemPath>program5.asm</itemPath>
-      <itemPath>program6.asm</itemPath>
       <itemPath>program2.asm</itemPath>
       <itemPath>program.asm</itemPath>
+      <itemPath>program6.asm</itemPath>
     </logicalFolder>
     <logicalFolder name="ExternalFiles"
                    displayName="Important Files"
@@ -550,6 +550,14 @@
         </mpasmsuite>
       </item>
       <item path="program5.asm" ex="true" overriding="false">
+        <MPASMWIN-AS>
+        </MPASMWIN-AS>
+        <MPASMWIN-LD>
+        </MPASMWIN-LD>
+        <mpasmsuite>
+        </mpasmsuite>
+      </item>
+      <item path="program6.asm" ex="true" overriding="false">
         <MPASMWIN-AS>
         </MPASMWIN-AS>
         <MPASMWIN-LD>

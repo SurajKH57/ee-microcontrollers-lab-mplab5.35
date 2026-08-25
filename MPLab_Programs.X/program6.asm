@@ -1,3 +1,15 @@
-
-
+#include <p18f452.inc> ;Flags
+    ORG 0x00
+    MOVLW 0xF0
+    ADDLW 0x50
+    MOVLW 0x2F
+    ADDLW 0x25
+    MOVLW 0x80
+    ADDLW 0x80
+    MOVLW 0x7F
+    ADDLW 0x01
+    MOVLW 0x90
+    ADDLW 0xF0
+    END
+    
 
